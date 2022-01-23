@@ -1,0 +1,100 @@
+{
+    "result": [
+        {
+            "_ref": "some _ref",
+            "ipv4addr": "69.69.64.1",
+            "network_view": "default",
+            "mac": "77:70:00:69:00:01",
+            "name": "NUXXXYYY01",
+            "network": "69.69.64.0/24"
+        },
+        {
+            "comment": "some bull_here",
+            "_ref": "some _ref",
+            "ipv4addr": "69.69.64.2",
+            "network_view": "default",
+            "mac": "00:00:69:00:00:01",
+            "name": "NUXXXYYY02",
+            "network": "69.69.64.0/24"
+        },
+        {
+            "comment": "some blah_here",
+            "_ref": "some _ref",
+            "ipv4addr": "69.69.64.3",
+            "network_view": "default",
+            "mac": "00:00:00:00:06:66",
+            "name": "NUXXXYYY03",
+            "network": "69.69.64.0/24"
+        },
+        {
+            "_ref": "some _ref",
+            "ipv4addr": "69.69.64.223",
+            "mac": "00:00:00:00:00:00",
+            "network_view": "default",
+            "network": "69.69.64.0/24"
+        },
+        {
+            "comment": "some comment",
+            "_ref": "some _ref",
+            "ipv4addr": "69.69.66.1",
+            "network_view": "default",
+            "mac": "00:00:00:00:00:01",
+            "name": "NUXXXYYY04",
+            "network": "69.69.66.0/24"
+        },
+        {
+            "comment": "some comment",
+            "_ref": "some _ref",
+            "ipv4addr": "69.69.66.2",
+            "network_view": "default",
+            "mac": "00:00:00:00:00:01",
+            "name": "NUXXXYYY05",
+            "network": "69.69.66.0/24"
+        },
+        {
+            "comment": "some comment",
+            "_ref": "some _ref",
+            "ipv4addr": "69.69.66.3",
+            "network_view": "default",
+            "mac": "00:00:00:00:00:01",
+            "name": "NUXXXYYY06",
+            "network": "69.69.66.0/24"
+        },
+        {
+            "comment": "unexisting network",
+            "_ref": "some _ref",
+            "ipv4addr": "48.56.23.23",
+            "network_view": "default",
+            "mac": "00:00:00:00:00:01",
+            "name": "SOMEBOX",
+            "network": "48.56.22.0/23"
+        },
+        {
+            "comment": "host on slash31 net",
+            "_ref": "some _ref",
+            "ipv4addr": "10.187.255.254",
+            "network_view": "default",
+            "mac": "00:00:00:EE:00:69",
+            "name": "20SU69",
+            "network": "10.187.255.254/31"
+        },
+        {
+            "comment": "host on slash31 net",
+            "_ref": "some _ref",
+            "ipv4addr": "10.187.255.255",
+            "network_view": "default",
+            "mac": "00:00:00:EE:00:70",
+            "name": "20SU70",
+            "network": "10.187.255.254/31"
+        },
+        {
+            "comment": "host on slash32 net",
+            "_ref": "no need for",
+            "ipv4addr": "10.187.224.2",
+            "network_view": "default",
+            "mac": "00:00:00:3F:AA:4F",
+            "name": "ERNIE",
+            "network": "10.187.224.2/32"
+        }
+    ]
+}
